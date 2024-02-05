@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822297725368",
+    "project_id": "analytics-dashboard-35714",
+    "storage_bucket": "analytics-dashboard-35714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822297725368:android:0efc9401d61360c3b9e74d",
+        "android_client_info": {
+          "package_name": "com.example.analytics_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQM6WsAxvzpUYZ71K7xBlPXI1ZlTxX0wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

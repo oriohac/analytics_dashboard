@@ -17,7 +17,13 @@ class Analytics extends StatelessWidget {
         builder: (context, value, child) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            theme: ThemeData.light(),
+            theme: ThemeData.light().copyWith(
+              cardTheme: CardTheme(
+                surfaceTintColor: Color(0xFFFFFFFF)
+              ),
+              cardColor: Colors.white,
+              scaffoldBackgroundColor: Color(0xFFF7F8FA),
+            ),
             darkTheme: ThemeData.dark(),
             themeMode: value? ThemeMode.dark : ThemeMode.light,
             home: const Home(),

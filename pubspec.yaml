@@ -42,6 +42,7 @@ dependencies:
   # Bar chart implementation
   syncfusion_flutter_charts: ^24.1.47+2
   fl_chart: ^0.66.1
+  firebase_core: ^2.25.3
 
 dev_dependencies:
   flutter_test:
@@ -120,6 +121,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+  fonts:
+    - family: Jakarta
+      fonts:
+        - asset: lib/assets/fonts/Jakarta.ttf
   # fonts:
   #   - family: Schyler
   #     fonts:
