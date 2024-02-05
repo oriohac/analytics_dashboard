@@ -8,10 +8,11 @@ A Flutter project to recreate a dashboard for Geegpay Design and Front-End Chall
 - Google Chrome
 - Android Emulator
 - Flutter(Dart)
-- Firebase
+
 ### Tools
 - Code: Flutter Dart
-- Hosting: Firebase
+- Hosting: Github Pages
+- Git
 - Material design3
 - Date formating: intl: ^0.19.0
 - Svg images: flutter_svg: ^2.0.9
