@@ -8,10 +8,10 @@ A Flutter project to recreate a dashboard for Geegpay Design and Front-End Chall
 - Google Chrome
 - Android Emulator
 - Flutter(Dart)
-
+- Firebase
 ### Tools
 - Code: Flutter Dart
-- Hosting: Github Pages
+- Hosting: Firebase
 - Git
 - Material design3
 - Date formating: intl: ^0.19.0
@@ -52,3 +52,6 @@ In your project root input `>flutter run -d chrome` or if you want to create the
 | ![Alt text](<Screenshot from 2024-02-05 04-34-17.png>) ![Alt text](<Screenshot from 2024-02-05 04-34-44.png>) |
 |:--:|
 | **Mobile view Dark Theme** |
+
+### Live Site is on
+ [Analytics Dashboard](https://analytics-dashboard-35714.web.app)
